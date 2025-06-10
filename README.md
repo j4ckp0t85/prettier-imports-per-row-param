@@ -1,3 +1,15 @@
+Forked custom version to add a new plugin parameter:
+
+importsPerRow: {Add commentMore actions
+    since: "1.10.0",
+    category: CATEGORY_JAVASCRIPT,
+    type: "int",
+    default: 1,
+    description:
+      "Defines the number of imports that should be grouped together in a row.",
+  },
+
+
 [![Prettier Banner](https://unpkg.com/prettier-logo@1.0.3/images/prettier-banner-light.svg)](https://prettier.io)
 
 <h2 align="center">Opinionated Code Formatter</h2>
